@@ -1,0 +1,10 @@
+feature,area,priority,original,clone,notes
+public bio link profile page,profile,must,yes,yes,core feature
+add and reorder custom links,admin,must,yes,yes,drag and drop link manager
+basic click counter analytics,analytics,should,yes,yes,clicks per link
+custom profile theme selection,appearance,should,yes,yes,color and button style
+social icons bar,profile,could,yes,partial,in progress
+custom domain support,settings,could,yes,no,planned for v2
+link scheduling by date,admin,could,yes,skip,out of MVP scope
+export links as QR code,profile,should,no,yes,added clone differentiator
+

@@ -1,0 +1,17 @@
+{
+  "avoid": ["Linktree", "Linktree Pty"],
+  "app_store": {
+    "name": "LinkHub: Bio Link & QR Page",
+    "subtitle": "One link for all your socials",
+    "promotional_text": "Build a clean bio link page in 60 seconds with click analytics and high-resolution QR code export included.",
+    "description": "LinkHub gives creators, founders, and small businesses one clean page for every important link.\n\nFeatures:\n- Unlimited custom links with drag-and-drop ordering\n- Built-in click analytics without expensive paywalls\n- Instant QR code download for print and events\n- Fast, accessible themes tested to WCAG AA contrast standards",
+    "keywords": "bio,link,profile,creator,portfolio,qr,social,landing,url,card",
+    "whats_new": "Added instant SVG and PNG QR code downloads and custom RGB theme tokens."
+  },
+  "google_play": {
+    "title": "LinkHub: Bio Link & QR Page",
+    "short_description": "Create a fast bio link page with click analytics and QR code export.",
+    "full_description": "LinkHub gives creators, founders, and small businesses one clean page for every important link. Add unlimited links, reorder them in seconds, track clicks in real time, and export a ready-to-print QR code."
+  }
+}
+

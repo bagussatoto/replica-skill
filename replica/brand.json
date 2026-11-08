@@ -1,0 +1,8 @@
+{
+  "name": "LinkHub",
+  "domain": "linkhub.example.com",
+  "avoid": ["Linktree", "Linktree Pty"],
+  "domains": ["linktr.ee", "linktree.com"],
+  "colors": ["#43e660", "#39e09b"]
+}
+
